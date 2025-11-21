@@ -1,0 +1,1 @@
+- Make GUI - spectrograph, modulation index, status light (or similar), recieve strength (numerical)
