@@ -1,3 +1,4 @@
+LAST UPDATED Dec 11th, 2025
 this is currently python code to be run on a software-defined radio to pull up a waterfall spetrogram of WRUW's broadcast.
 
 to run this:
