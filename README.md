@@ -9,6 +9,9 @@ venv:
 1. make a virtural python environment called `.venv`: ``python3 -m venv .venv``
 2. activate the venv ``source .venv/bin/activate``
 3. install dependancies in the venv
-   4. RTLSDR: ``python3 -m pip install pyRtlSdr``
+   4. ``pip3 install  -r requirements.txt``
+      4. ~~RTLSDR: ``python3 -m pip install pyRtlSdr``~~
 
-5. run it: ``python3 -m main.py``
+5. run it: ``python3 -m main``
+
+this should work assuming you have python 3.13+ 
